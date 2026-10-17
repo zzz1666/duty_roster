@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+html, body, #app {
+  @apply bg-transparent w-full h-full
+}
